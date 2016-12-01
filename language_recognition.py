@@ -19,5 +19,3 @@ def character_frequency(input_text):
 
 	return return_dict
 
-if __name__ == '__main__':
-	print(character_frequency('aaabb'))
